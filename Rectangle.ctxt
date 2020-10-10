@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Rectangle
+comment0.text=\r\n\ A\ rectangle\ that\ can\ be\ manipulated\ and\ that\ draws\ itself\ on\ a\ canvas.\r\n\ \r\n\ @author\ \ Michael\ Kolling\ and\ David\ J.\ Barnes\ (Modified)\r\n\ @version\ 1.0\ \ (15\ July\ 2000)()\r\n
+comment1.params=x\ y\ X\ Y
+comment1.target=Rectangle(int,\ int,\ int,\ int)
+comment1.text=\r\n\ Create\ a\ new\ rectangle\ at\ default\ position\ with\ default\ color.\r\n
+comment2.params=
+comment2.target=void\ makeVisible()
+comment2.text=\r\n\ Make\ this\ rectangle\ visible.\ If\ it\ was\ already\ visible,\ do\ nothing.\r\n
+comment3.params=
+comment3.target=void\ makeInvisible()
+comment3.text=\r\n\ Make\ this\ rectangle\ invisible.\ If\ it\ was\ already\ invisible,\ do\ nothing.\r\n
+comment4.params=
+comment4.target=void\ draw()
+comment4.text=\r\n\ Draw\ the\ rectangle\ with\ current\ specifications\ on\ screen.\r\n
+comment5.params=
+comment5.target=void\ erase()
+comment5.text=\r\n\ Erase\ the\ rectangle\ on\ screen.\r\n
+numComments=6

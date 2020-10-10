@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=AdminColor
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ AdminColor\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=cantColores
+comment1.target=void\ generarColores(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ AdminColor\r\n
+comment2.params=
+comment2.target=java.lang.String\ generaHexa()
+comment2.text=\r\n\ Genera\ color\ hexagecimal\ aleatorio\r\n\ @param\ \ milliseconds\ \ the\ number\ \r\n
+comment3.params=selColor
+comment3.target=java.lang.String\ retornaColor(java.lang.Integer)
+comment3.text=\r\n\ Retorna\ el\ color\ \r\n\ @param\ \ milliseconds\ \ the\ number\ \r\n
+numComments=4
