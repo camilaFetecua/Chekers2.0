@@ -37,6 +37,13 @@ public class Rectangle{
         isVisible = true;
         draw();
     }
+
+* Make this rectangle visible. If it was already visible, do nothing.
+     */
+    public void casa(){
+        isVisible = false;
+        draw();
+    }
     
     /**
      * Make this rectangle invisible. If it was already invisible, do nothing.
