@@ -69,6 +69,10 @@ public class Town
         
     }
     
+ public Casa(int lenght, int width, int streets, int signs)
+    {
+        
+    }
     
     /**
      * Entrada arena 
